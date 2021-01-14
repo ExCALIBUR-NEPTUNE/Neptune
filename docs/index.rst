@@ -9,6 +9,7 @@ ExCALIBUR-NEPTUNE project.
    :caption: Contents:
 
    acronyms
+   charter
 
 
 
