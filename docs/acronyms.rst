@@ -1,4 +1,4 @@
-.. _sec:acronyms:
+.. _sec-acronyms:
 
 Acronyms
 ========
@@ -513,7 +513,7 @@ Acronyms
    | VAC         | Variational approach of conformation dynamics         |
    +-------------+-------------------------------------------------------+
 
-.. _sec:symbol:
+.. _sec-symbol:
 
 Symbols
 =======
