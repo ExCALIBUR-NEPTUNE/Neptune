@@ -10,6 +10,7 @@ ExCALIBUR-NEPTUNE project.
 
    acronyms
    charter
+   writing_docs
 
 
 
